@@ -9,7 +9,7 @@ let Reviews = require(__dirname + '/../models/Reviews');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Findit Mobile Api' });
 });
 
 //  FETCH CATEGORIES FOR BUSINESSES
