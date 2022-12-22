@@ -11,7 +11,7 @@
     "debug": "~2.6.9",
     "express": "^4.16.4",
     "http-errors": "~1.6.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "morgan": "~1.9.0",
     "mongoose": "^4.13.14",
     "mongoose-datatables": "^3.2.0",
